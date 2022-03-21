@@ -1,0 +1,21 @@
+Start
+
+Time: 2021/05/29 01:47:53. Cryptocurrencices analyzer picks: ETH. Confidence: 30. Direction: long. Volume: 92.
+
+Time: 2021/05/29 01:47:53. North America analyzer picks: GOOGL. Confidence: 40. Direction: long. Volume: 19.
+
+Time: 2021/05/29 01:47:53. Cryptocurrencices analyzer picks: ETH. Confidence: 23. Direction: long. Volume: 55.
+
+Time: 2021/05/29 01:47:53. North America analyzer picks: GME. Confidence: 24. Direction: long. Volume: 87.
+
+Time: 2021/05/29 01:47:53. Cryptocurrencices analyzer picks: ETH. Confidence: 46. Direction: short. Volume: 64.
+
+Time: 2021/05/29 01:47:53. North America analyzer picks: UUUU. Confidence: 38. Direction: short. Volume: 14.
+
+Time: 2021/05/29 01:47:53. North America analyzer picks: AAPL. Confidence: 87. Direction: long. Volume: 38.
+
+Time: 2021/05/29 01:47:53. Cryptocurrencices analyzer picks: ETH. Confidence: 87. Direction: short. Volume: 38.
+
+Time: 2021/05/29 01:47:53. North America analyzer picks: AAPL. Confidence: 3. Direction: short. Volume: 5.
+
+Time: 2021/05/29 01:47:53. Cryptocurrencices analyzer picks: BTC. Confidence: 79. Direction: short. Volume: 96.
